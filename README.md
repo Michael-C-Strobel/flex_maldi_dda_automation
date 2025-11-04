@@ -5,3 +5,8 @@ of MALDI-TOF MS/MS spectra in a data dependent fashion on the Bruker timsTOF fle
 the [documentation](https://gtluu.github.io/flex_maldi_dda_automation).
 
 Included software components: Copyright © 2022 by Bruker Daltonics GmbH & Co. KG. All rights reserved
+
+How to run:
+```
+make server-compose-interactive
+```

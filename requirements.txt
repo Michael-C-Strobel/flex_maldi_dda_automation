@@ -55,11 +55,9 @@ pydantic==2.9.2
 pydantic_core==2.23.4
 pyinstaller==6.10.0
 pyinstaller-hooks-contrib==2024.8
-git+https://github.com/gtluu/pymaldiproc.git
 pyMSpec==0.1.2
 pyopenms==3.2.0
 pyparsing==3.1.4
-git+https://github.com/gtluu/pyTDFSDK.git
 pyteomics==4.7.3
 python-dateutil==2.9.0.post0
 pythonnet==3.0.4
